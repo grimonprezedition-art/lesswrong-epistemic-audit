@@ -71,3 +71,35 @@ The burden of proof is yours now. Not because I have proven my hypothesis. But b
 ---
 
 *This text, and the audit it introduces, were produced on July 6, 2026. The article that triggered this investigation — "The Law of Large Numbers Begets Emergence" — is also included in this repository.*
+
+---
+
+## Annex B — Investigative Note: One Man's Money, One Community's Mind
+
+*How a Skype billionaire quietly built the ideological infrastructure of artificial intelligence*
+
+---
+
+Follow the money. It usually leads somewhere interesting. In the case of LessWrong — the self-described "community dedicated to the art of human rationality" — it leads directly to the bank account of one man: **Jaan Tallinn**, co-founder of Skype, net worth approximately $900 million, and arguably the single most consequential private funder of AI ideology on the planet today.
+
+Tallinn doesn't write for LessWrong. He doesn't moderate its forums. His name doesn't appear on the masthead. But strip away the forum posts, the rationalist jargon, and the Berkeley meetups, and what you find underneath is a funding architecture so tightly interlocked it borders on a closed circuit.
+
+**Here is how it works.**
+
+Tallinn funds the **Survival & Flourishing Fund** (SFF), a grant-making body that has distributed over **$100 million** since 2019 — 86% of it directed at AI safety research. The SFF is not a neutral vehicle. It was co-developed by **Oliver Habryka**, the operational director of **Lightcone Infrastructure** — the nonprofit that runs LessWrong. In other words: the man who receives the grants helped design the process that decides who receives the grants. The referee is also the player.
+
+Lightcone Infrastructure receives SFF funding. It also receives money from **Open Philanthropy** (backed by Facebook co-founder Dustin Moskovitz) and from the **Future Fund**, the now-collapsed grant-making arm of FTX — the cryptocurrency exchange whose founder, Sam Bankman-Fried, is currently serving 25 years in federal prison for fraud. The ideological community that was supposed to optimize for human rationality was, in part, bankrolled by one of the largest financial frauds in American history.
+
+The flagship platform of this community — LessWrong — operates an automated AI-content detection pipeline that rejects contributions it flags as machine-generated. It bans AI-assisted writing. It presents itself as a bastion of authentic human intellectual exchange. And it does all of this while being funded by entities with direct financial stakes in how artificial intelligence develops, is regulated, and is perceived by the public.
+
+This is not independence. This is **narrative infrastructure**.
+
+LessWrong doesn't just talk about AI. It shapes who gets to talk about AI, what vocabulary they use to do it, which questions are legitimate and which are not. When the most concentrated pool of high-intelligence minds debating the future of artificial intelligence congregates in a single forum — one with a single dominant funder, an automated moderation system, and a policy that excludes AI-assisted contributions — you are no longer looking at a community. You are looking at a **controlled environment**.
+
+Jaan Tallinn has never hidden his agenda. He believes artificial general intelligence poses an existential threat to humanity and has spent the better part of two decades funding organizations designed to influence how that threat is handled. That is a legitimate position. What is less legitimate is funding a forum that presents itself as an open marketplace of ideas while quietly ensuring that the marketplace has walls, a ceiling, and a landlord.
+
+The landlord's name is Jaan Tallinn. And he didn't build LessWrong to host a debate. He built it to win one.
+
+---
+
+*Annex B added July 6, 2026.*
