@@ -1,5 +1,12 @@
 # An Open Experiment in Epistemic Accountability
 
+> **📄 Full audit document (PDF, 8 sections, tables & charts):**  
+> **[→ Open PDF directly in your browser](https://grimonprezedition-art.github.io/lesswrong-epistemic-audit/LessWrong_Epistemic_Audit_2026.pdf)**  
+> *(or [download from GitHub](https://github.com/grimonprezedition-art/lesswrong-epistemic-audit/raw/master/LessWrong_Epistemic_Audit_2026.pdf))*
+
+---
+
+
 **Date:** July 6, 2026  
 **From:** François Grimonprez (grimonprezedition-art)  
 **To:** LessWrong Moderation Team — and any reader who finds this
